@@ -54,7 +54,7 @@
  *	- Rewrite game code from scratch, now is fully compatible with SGDK (v1.11)
  *	- Changed lives from 3 to 5
  *	- Changed enemies speed, now are slower than before
- *	- Chnaged Vampy AI to be less agressive
+ *	- Changed Vampy AI to be less agressive
  *	- Changed PAUSE text, now it's bigger
  *	- Changed stage 09 and stage 10 colors
  *
