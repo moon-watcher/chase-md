@@ -1,4 +1,0 @@
-** If you know how to solve any of this bugs please, contact me (nolddor@hotmail.com) **
-
-[NOT SOLVED]
-#1 Randomly, white dots appears inline between screens.

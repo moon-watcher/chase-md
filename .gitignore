@@ -1,0 +1,25 @@
+# Excluded Files #
+rescomp.h
+/out/*
+/tmp/*
+
+# Included Files #
+!/out/rom.bin
+
+
+######################
+# Windows
+######################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# Eclipse
+######################
+
+.project
+.cproject
