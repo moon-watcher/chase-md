@@ -1,3 +1,4 @@
+```
 /*
  *                      - Feel free to do anything you want* with this code, consider it as PUBLIC DOMAIN -
  *                                  ... but be careful, this code is dark and full of terrors.
@@ -61,3 +62,4 @@
  * --------------------------------------------------------------------------------------------------------------------------------
  *
  */
+ ```
